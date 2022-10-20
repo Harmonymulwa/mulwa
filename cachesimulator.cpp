@@ -1,9 +1,5 @@
 //
-//  cachesimulator.cpp
-//  cachesimulator
-//
-//  Created by Jae Won Hyun on 10/15/16.
-//  Copyright © 2016 Jae Won Hyun. All rights reserved.
+// 
 //
 
 #include <stdio.h>
